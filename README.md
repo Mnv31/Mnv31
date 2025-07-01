@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Manvi
 
-<!--
-**Mnv31/Mnv31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Explorer | Building with Code & Curiosity
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Working On
+- 🛒 **E-Commerce Homepage UI Clone** – A clean HTML/CSS-based homepage inspired by top retail platforms 
+- 🧪 **Smart Mirror** – AI + IoT project for real-time skincare monitoring
+
+### 🛠️ Tech Stack
+**Languages:**  
+`Python` `Java` `HTML` `CSS` 
+
+### ✨ About Me
+- Final-year student, actively exploring AI, NLP, and GenAI.
+- Always open to learn, collaborate and build in this ever-changing modern world. 
+
+### 📫 Connect with Me
+📧 Email: chhillermanvi31@gmail.com  
+🌐 Portfolio: Coming Soon! 
+📍 Based in India
+
+> *“Stay curious, keep building, and code with intention.”*
+
