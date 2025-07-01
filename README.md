@@ -1,12 +1,8 @@
-# 👋 Hi there, I'm Manvi
+# 👋 Hey there, I'm Manvi.
 
 ### AI Explorer | Building with Code & Curiosity
 
 Welcome to my GitHub!
-
-### 🧠 Currently Working On
-- 🛒 **E-Commerce Homepage UI Clone** – A clean HTML/CSS-based homepage inspired by top retail platforms 
-- 🧪 **Smart Mirror** – AI + IoT project for real-time skincare monitoring
 
 ### 🛠️ Tech Stack
 **Languages:**  
@@ -20,6 +16,3 @@ Welcome to my GitHub!
 📧 Email: chhillermanvi31@gmail.com  
 🌐 Portfolio: Coming Soon! 
 📍 Based in India
-
-> *“Stay curious, keep building, and code with intention.”*
-
