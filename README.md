@@ -14,5 +14,4 @@ Welcome to my GitHub!
 
 ### 📫 Connect with Me
 📧 Email: chhillermanvi31@gmail.com  
-🌐 Portfolio: Coming Soon! 
 📍 Based in India
