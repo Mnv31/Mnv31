@@ -18,4 +18,4 @@ Welcome to my GitHub!
 
 ## 📊 GitHub Stats
 
-![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnv_31&show_icons=true&theme=dark&count_private=true)
+![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnv31&show_icons=true&theme=dark&count_private=true)
