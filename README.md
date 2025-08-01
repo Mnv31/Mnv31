@@ -8,6 +8,12 @@ Welcome to my GitHub!
 **Languages:**  
 `Python` `Java` `HTML` `CSS` 
 
+**Libraries & Frameworks:**  
+NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • TensorFlow • Keras • Flask
+
+**Tools & Platforms:**  
+Git • GitHub • VS Code • Google Colab • Jupyter Notebook • Postman • Docker (basic)
+
 ### ✨ About Me
 - Final-year student, actively exploring AI, NLP, and GenAI.
 - Always open to learn, collaborate and build in this ever-changing modern world. 
