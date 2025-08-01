@@ -19,3 +19,6 @@ Welcome to my GitHub!
 ## 📊 GitHub Stats
 
 ![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnv31&show_icons=true&theme=dark&count_private=true)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
