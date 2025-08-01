@@ -6,13 +6,16 @@ Welcome to my GitHub!
 
 ### 🛠️ Tech Stack
 **Languages:**  
-`Python` `Java` `HTML` `CSS` 
+Python & Java
+
+**Web Technologies:**  
+HTML & CSS
 
 **Libraries & Frameworks:**  
 NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • TensorFlow • Keras • Flask
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code • Google Colab • Jupyter Notebook • Postman • Docker (basic)
+GitHub • VS Code • Google Colab • Jupyter Notebook • Postman • Docker (basic)
 
 ### ✨ About Me
 - Final-year student, actively exploring AI, NLP, and GenAI.
