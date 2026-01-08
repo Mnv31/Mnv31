@@ -24,7 +24,3 @@ GitHub • VS Code • Google Colab • Jupyter Notebook • Postman • Docker 
 ### 📫 Connect with Me
 📧 Email: chhillermanvi31@gmail.com  
 📍 Based in India
-
-## 📊 GitHub Stats
-
-![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnv31&show_icons=true&theme=dark&count_private=true)
