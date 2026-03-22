@@ -6,10 +6,6 @@ Welcome to my GitHub!
 - Final-year student, actively exploring AI, NLP, and GenAI.
 - Always open to learn, collaborate and build in this ever-changing modern world. 
 
-### 📫 Connect with Me
-📧 Email: chhillermanvi31@gmail.com  
-📍 Based in India
-
 ### 🛠️ Tech Stack
 **Languages:**  
 Python & Java
@@ -22,3 +18,7 @@ NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • TensorFlow • 
 
 **Tools & Platforms:**  
 GitHub • VS Code • Google Colab • Jupyter Notebook
+
+### 📫 Connect with Me
+📧 Email: chhillermanvi31@gmail.com  
+📍 Based in India
