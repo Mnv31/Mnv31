@@ -15,7 +15,7 @@ HTML & CSS
 NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • TensorFlow • Keras • Flask
 
 **Tools & Platforms:**  
-GitHub • VS Code • Google Colab • Jupyter Notebook • Postman • Docker (basic)
+GitHub • VS Code • Google Colab • Jupyter Notebook
 
 ### ✨ About Me
 - Final-year student, actively exploring AI, NLP, and GenAI.
